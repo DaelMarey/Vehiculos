@@ -9,6 +9,8 @@ set bell off
 set escape off
 set confirm on
 set sysmenu off
+set talk off
+set notify cursor off
 *SET SAFETY OFF
 *SET RESOURCE OFF
 
