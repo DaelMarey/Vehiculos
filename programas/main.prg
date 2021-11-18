@@ -11,6 +11,7 @@ set confirm on
 set sysmenu off
 set talk off
 set notify cursor off
+SET DECIMALS TO 2
 *SET SAFETY OFF
 *SET RESOURCE OFF
 

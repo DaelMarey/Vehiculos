@@ -14,7 +14,7 @@ set notify cursor off
 *SET SAFETY OFF
 *SET RESOURCE OFF
 
-DO FORM gdirectorio + "\formas\cap_gasto"
+DO FORM gdirectorio + "\formas\inicio"
 
 WITH _Screen
   .Icon = gdirectorio +"\iconos\gastos.ico"
